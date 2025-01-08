@@ -1,5 +1,5 @@
 # pycounts_ljq_mds
- jiaquanliim
+
 Calculate word counts in a text file!
 
 ## Installation
