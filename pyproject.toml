@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pycounts_ljq_mds"
+version = "0.1.0"
+description = "Calculate word counts in a text file!"
+authors = ["jiaquanlim"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
