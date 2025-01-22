@@ -1,5 +1,7 @@
 # pycounts_ljq_mds
 
+[![codecov](https://codecov.io/gh/JiaQuanLim/pycounts_ljq_mds/graph/badge.svg?token=4QD8O22FS6)](https://codecov.io/gh/JiaQuanLim/pycounts_ljq_mds)
+
 Calculate word counts in a text file!
 
 Author: JiaQuanLim
